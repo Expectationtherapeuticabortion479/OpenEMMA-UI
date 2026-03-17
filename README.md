@@ -2,6 +2,10 @@
 
 A real-time UI wrapper that adapts [OpenEMMA](https://github.com/taco-group/OpenEMMA) for live autonomous driving in [CARLA Simulator](https://carla.org/) (0.9.16).
 
+![OpenEMMAGPTver-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f2097d70-5660-4ff3-9d9f-6e40335f245f)
+
+
+
 OpenEMMA was originally designed for offline trajectory prediction on the nuScenes dataset. This project brings it into a **real-time CARLA environment** with a visual UI, multi-model VLM support, and a Chain-of-Thought (CoT) reasoning display.
 
 ![Architecture](https://img.shields.io/badge/CARLA-0.9.16-blue) ![Python](https://img.shields.io/badge/Python-3.12-green) ![License](https://img.shields.io/badge/License-Apache%202.0-red)
